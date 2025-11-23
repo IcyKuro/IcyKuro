@@ -11,6 +11,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="storybook logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="storybook logo"  />
+  <img width="12" />
 </div>
 
 ###
